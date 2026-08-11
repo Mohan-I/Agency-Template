@@ -33,3 +33,23 @@ Agency-Template/
 └── index.html       # Main landing page
 ```
 
+Getting Started
+
+* Clone the repository:
+```bash
+git clone [https://github.com/Mohan-I/Agency-Template.git](https://github.com/Mohan-I/Agency-Template.git)
+```
+* Navigate into the directory:
+```bash
+git clone [https://github.com/Mohan-I/Agency-Template.git](https://github.com/Mohan-I/Agency-Template.git)
+```
+```bash
+cd Agency-Template
+```
+* Run the project:
+Open index.html in your web browser or use a live server extension (e.g., VS Code Live Server).
+
+---
+
+Author : 
+Mohan Yadav - ```Mohan-I```
