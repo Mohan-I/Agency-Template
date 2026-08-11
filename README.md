@@ -1,6 +1,7 @@
 # Agency-Template
 
-A clean, modern, and responsive front-end website template designed for digital agencies, freelancers, and creative studios. Built using modern HTML, CSS, and JavaScript.
+A clean, modern, and responsive front-end website template designed for digital agencies, freelancers, and creative studios. Built using modern HTML, CSS, and JavaScript. | Updates incoming 12-08-2024 : Agency works with every business. No matter if you are designer, cooker, blogger, designer or an astronaut – this theme is for everyone! Over such many years spent on html we created something perfect, modern and minimalistic. Such many options and included features will make your life easier and you will save a lot of time. It is easier than you think and now you will be able to allocate your time on things that you love to do. #agency
+
 
 **Live Demo:** [agency-template-sand.vercel.app](https://agency-template-sand.vercel.app)
 
@@ -14,7 +15,17 @@ A clean, modern, and responsive front-end website template designed for digital 
 * **Smooth UI Interactions:** Interactivity powered by custom JavaScript.
 
 ---
+## Project Status
 
+```bash
+|     .-.
+|    /   \         .-.
+|   /     \       /   \       .-.     .-.     _   _
++--/-------\-----/-----\-----/---\---/---\---/-\-/-\/\/---
+| /         \   /       \   /     '-'     '-'
+|/           '-'         '-'
+```
+---
 ## Tech Stack
 
 * **HTML5:** 61.4%
@@ -53,3 +64,4 @@ Open index.html in your web browser or use a live server extension (e.g., VS Cod
 
 Author : 
 Mohan Yadav - ```Mohan-I```
+
